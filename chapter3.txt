@@ -1,0 +1,1 @@
+This is chapter 3. by using git log we can see what changes are made from initial phase to till now. 
